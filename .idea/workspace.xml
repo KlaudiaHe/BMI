@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b56d06-39fd-4bf8-afa8-6914e0bfa06c" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/PicocliApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/StandardMain.java" afterDir="false" />
@@ -20,6 +21,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -69,6 +73,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< Updated upstream
         <entry file="file://$PROJECT_DIR$/src/main/java/StandardMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="700">
@@ -79,12 +84,24 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -140,15 +157,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/build.gradle" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IndexCalculator.java" />
+>>>>>>> Stashed changes
         <option value="$PROJECT_DIR$/src/test/java/BMICostCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/IndexCalculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/BMICalculator.java" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/src/main/java/PicocliMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/PicocliApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+=======
+        <option value="$PROJECT_DIR$/build.gradle" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -411,13 +437,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.pragmatists/JUnitParams/1.1.1/c90b5cb0b6fb0c332a3bbb9ea9bb467fb7604cb7/JUnitParams-1.1.1-sources.jar!/junitparams/internal/ParameterisedTestMethodRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -482,6 +501,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

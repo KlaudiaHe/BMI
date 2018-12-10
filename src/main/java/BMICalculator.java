@@ -1,10 +1,11 @@
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Arrays;
+import java.util.function.BiFunction;
 
 import static java.lang.Math.abs;
 
-public class BMICalculator implements IndexCalculator {
+public class BMICalculator implements Calculator <String> {
 
     private BigDecimal mass;
     private BigDecimal height;

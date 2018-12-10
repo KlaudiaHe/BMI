@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63b56d06-39fd-4bf8-afa8-6914e0bfa06c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BMICalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IndexCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BMICostCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PicocliApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StandardMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/BMICalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/BMICalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/IndexCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/BMICalculatorParameterizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/BMICalculatorParameterizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BMICalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,27 +35,74 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BMICalculator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BMICalculator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="BMICalculator" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StandardMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="700">
+              <caret line="35" column="129" selection-start-line="34" selection-start-column="12" selection-end-line="35" selection-end-column="129" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="340">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -54,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BMICalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="480">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,22 +131,37 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IndexCalculator.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/BMICostCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IndexCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/BMICalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PicocliMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PicocliApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="width" value="1445" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="300" />
+    <option name="y" value="10" />
+    <option name="width" value="1275" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -99,6 +170,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +182,22 @@
             <path>
               <item name="BMICalculator" type="b2602c69:ProjectViewProjectNode" />
               <item name="BMI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BMICalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BMI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BMICalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BMI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BMICalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BMI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -129,24 +218,16 @@
               <item name="BMI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="BMICalculator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BMI" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544343067644" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544477412246" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -163,28 +244,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BMICalculatorParameterizedTest.interpretTest">
-    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BMICalculator" />
+  <component name="RunManager" selected="Gradle.BMI [jar]">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="BMICalculator.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BMI [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="BMICalculatorParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BMICalculator.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BMICalculatorParameterizedTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BMICalculatorParameterizedTest.calculateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="BMICalculator.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BMICalculatorParameterizedTest" />
-      <option name="METHOD_NAME" value="calculateTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,11 +301,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BMI [jar]" />
+        <item itemvalue="JUnit.BMICalculatorParameterizedTest.validArgumentsTest" />
         <item itemvalue="JUnit.BMICalculatorParameterizedTest.interpretTest" />
         <item itemvalue="JUnit.BMICalculatorParameterizedTest" />
-        <item itemvalue="Application.BMICalculator" />
-        <item itemvalue="JUnit.BMICalculatorParameterizedTest.calculateTest" />
-        <item itemvalue="JUnit.BMICalculatorParameterizedTest.validArgumentsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -230,102 +319,92 @@
       <option name="presentableId" value="Default" />
       <updated>1544260752514</updated>
     </task>
+    <task id="LOCAL-00001" summary="commiting what we have so far">
+      <created>1544361853529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544361853529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed interface to generic, now we have to make tests working again!">
+      <created>1544361964190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544361964190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BMICalculatorParameterizedTest_validArgumentsTest - 2018.12.08 at 12h 44m 13s.xml">
+    <history-entry file="BMICalculatorParameterizedTest_calculateTest - 2018.12.09 at 09h 37m 41s.xml">
+      <configuration name="BMICalculatorParameterizedTest.calculateTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 09h 50m 08s.xml">
+      <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 09h 51m 28s.xml">
+      <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 09h 58m 24s.xml">
+      <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 10h 17m 07s.xml">
+      <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BMICalculatorParameterizedTest_validArgumentsTest - 2018.12.09 at 10h 18m 18s.xml">
       <configuration name="BMICalculatorParameterizedTest.validArgumentsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_calculateTest - 2018.12.08 at 12h 46m 38s.xml">
-      <configuration name="BMICalculatorParameterizedTest.calculateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_calculateTest - 2018.12.08 at 12h 49m 54s.xml">
-      <configuration name="BMICalculatorParameterizedTest.calculateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest - 2018.12.08 at 12h 50m 37s.xml">
+    <history-entry file="BMICalculatorParameterizedTest - 2018.12.09 at 10h 18m 28s.xml">
       <configuration name="BMICalculatorParameterizedTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_calculateTest - 2018.12.08 at 12h 50m 45s.xml">
-      <configuration name="BMICalculatorParameterizedTest.calculateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_calculateTest - 2018.12.08 at 12h 51m 13s.xml">
-      <configuration name="BMICalculatorParameterizedTest.calculateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_calculateTest - 2018.12.08 at 12h 57m 07s.xml">
-      <configuration name="BMICalculatorParameterizedTest.calculateTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.08 at 13h 39m 42s.xml">
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 10h 27m 22s.xml">
       <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.08 at 13h 40m 17s.xml">
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 10h 30m 49s.xml">
       <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BMICalculatorParameterizedTest - 2018.12.09 at 09h 06m 48s.xml">
-      <configuration name="BMICalculatorParameterizedTest" configurationId="JUnit" />
+    <history-entry file="BMICalculatorParameterizedTest_interpretTest - 2018.12.09 at 10h 31m 18s.xml">
+      <configuration name="BMICalculatorParameterizedTest.interpretTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="381" y="0" width="1156" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.13150685" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2536913" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.28285715" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.04249292" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.45714286" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.25354108" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.19121814" />
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.36571428" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4164306" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info active="true" anchor="right" id="Gradle" order="0" visible="true" weight="0.17651007" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966262" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24899329" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.026174497" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13150685" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.28285715" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.04249292" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="3" weight="0.19121814" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.36571428" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="Gradle" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.24966262" />
-    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commiting what we have so far" />
+    <MESSAGE value="changed interface to generic, now we have to make tests working again!" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed interface to generic, now we have to make tests working again!" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -353,38 +432,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IndexCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="820">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StandardMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="700">
+          <caret line="35" column="129" selection-start-line="34" selection-start-column="12" selection-end-line="35" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BMICalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="480">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BMICalculatorParameterizedTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PicocliApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
           </folding>
         </state>
       </provider>

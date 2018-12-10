@@ -35,14 +35,20 @@ public class BMICalculatorParameterizedTest {
         assertEquals(expectedIndex, bmiCalculator.calculate());
     }
 
-
-
     @Test
-    @Parameters({"10, very severely underweight",
-            "15.5, severely underweight",
-            "17, underweight"})
-    public void interpretTest(double bmi, String label){
-        BMICalculator bmiCalculator = new BMICalculator();
-        assertEquals(label, bmiCalculator.interpret(bmi));
+    @Parameters({"30,  180, very severely underweight",
+            "24,  125, severely underweight",
+            "30,  130, underweight",
+            "27,  120, normal (healthy weight)",
+            "40,  120, overweight",
+            "50,  120, obese class I (moderately obese)",
+            "55,  120, obese class II (severely obese)",
+            "60,  120, obese class III (very severely obese)",
+            "70,  120, obese class IV (morbidly obese)",
+            "80,  120 , obese class V (super obese)",
+            "120, 120, obese class VI (hyper obese)"})
+    public void interpretTest(BigDecimal weight, BigDecimal height, String label){
+        BMICalculator bmiCalculator = new BMICalculator(weight, height);
+        assertEquals(label, bmiCalculator.interpret());
     }
-}
+} //hehe a chcialas tego uniknąć;

@@ -1,5 +1,5 @@
 # BMI
-Program to calculate your BMI based on your mass and heigt.
+Program to calculate your BMI based on your mass and height.
 You need to use terminal (in Intellij) to run the program.
 Exemplary commands:
 -jar build/libs/BMICalculator-1.0-SNAPSHOT.jar -w 53 -h 165
